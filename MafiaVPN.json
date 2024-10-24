@@ -2,7 +2,7 @@
   
 "version": 1,
 "message": "Config version: 1 \nWhat's new \nFixed add time 20 hours😘",
-"fileUrl": "https://raw.githubusercontent.com/teamgomer/MAFIA-VPN/refs/heads/main/mafia.json",
+"fileUrl": "https://github.com/teamgomer/MAFIA-VPN/raw/refs/heads/main/mafia.json",
 
 "RewardAmount": 20,
 
@@ -10,7 +10,7 @@
 "title":"Can't use continue current version, you need to upgrade V1.3.0 ",
 "link":"https://play.google.com/store/apps/details?id=com.mfmafia.vpn",
 "website":"https://play.google.com/store/apps/details?id=com.mfmafia.vpn",
-"versionCode": 2,
+"versionCode": 1,
 
 "files": [
 
