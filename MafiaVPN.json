@@ -1,13 +1,13 @@
 {
   
 "version": 2,
-"message": "Config version: 1 \nWhat's new \nFixed add time 24 hours😘",
+"message": "เวอร์ชันไฟล์: 1 \nมีอะไรใหม่ \nแก้ไขเวลาเพิ่ม 24 ชั่วโมง😘",
 "fileUrl": "https://github.com/teamgomer/MAFIA-VPN/raw/refs/heads/main/Config.txt",
 
-"RewardAmount": 20,
+"RewardAmount": 24,
 
-"messageWarning":"What's new ?\n• Updated UI \n• Added Hotshare function \n• Fixed bug and more\n \nThanks for your understand❤️",
-"title":"Can't use continue current version, you need to upgrade V1.3.0 ",
+"messageWarning":"มีอะไรใหม่ ?\n• อัปเดต UI \n• เพิ่มฟังก์ชัน Hotshare \n• แก้ไขข้อบกพร่องและอื่นๆ อีกมากมาย\n \nขอบคุณที่เข้าใจ❤️",
+"title":"ไม่สามารถใช้เวอร์ชันปัจจุบันต่อได้ คุณต้องอัปเกรด ",
 "link":"https://play.google.com/store/apps/details?id=com.mfmafia.vpn",
 "website":"https://play.google.com/store/apps/details?id=com.mfmafia.vpn",
 "versionCode": 1,
@@ -24,9 +24,9 @@
 
   {
 
-         "name": "TH-FREE-03",
+         "name": "TH-FREE-02",
 
-         "url": "http://43.228.85.165:82/server/online_app.json"
+         "url": "http://45.91.134.32:82/server/online_app.json"
 
       }
 
