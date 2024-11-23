@@ -1,7 +1,7 @@
 {
   
-"version": 19,
-"message": "เวอร์ชันไฟล์: 19 \nมีอะไรใหม่ \nแก้ไขเวลาเพิ่ม 24 ชั่วโมง😘",
+"version": 20,
+"message": "เวอร์ชันไฟล์: 20 \nมีอะไรใหม่ \nแก้ไขเวลาเพิ่ม 24 ชั่วโมง😘",
 "fileUrl": "https://github.com/teamgomer/MAFIA-VPN/raw/refs/heads/main/mafia.json",
 
 "RewardAmount": 24,
@@ -56,12 +56,27 @@
 
   {
 
-         "name": "TH-VIP-01",
+         "name": "TH-FREE-06",
 
-         "url": "http://116.204.182.71:82/server/online_app.json"
+         "url": "https://github.com/HAREM-NET/ThaiRung/raw/refs/heads/main/6.online_app.json"
 
-  }
+  },
 
+  {
+
+         "name": "TH-FREE-07",
+
+         "url": "https://github.com/HAREM-NET/ThaiRung/raw/refs/heads/main/7.online_app.json"
+
+      },
+
+{
+
+         "name": "TH-FREE-08",
+
+         "url": "https://github.com/HAREM-NET/ThaiRung/raw/refs/heads/main/8.online_app.json"
+
+}
 
    ]
   
