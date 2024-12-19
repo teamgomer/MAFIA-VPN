@@ -18,7 +18,7 @@
 
          "name": "TH-FREE-01",
 
-         "url": "https://github.com/HAREM-NET/ThaiRung/raw/refs/heads/main/online_app.json"
+         "url": "http://103.107.54.187:82/server/online_app.json"
 
       },
 
@@ -26,7 +26,7 @@
 
          "name": "TH-FREE-02",
 
-         "url": "https://github.com/HAREM-NET/ThaiRung/raw/refs/heads/main/1.online_app.json"
+         "url": "http://103.107.54.189:82/server/online_app.json"
 
       },
 
@@ -34,7 +34,7 @@
 
          "name": "TH-FREE-03",
 
-         "url": "https://github.com/HAREM-NET/ThaiRung/raw/refs/heads/main/2.online_app.json"
+         "url": "http://103.107.54.190:82/server/online_app.json"
 
       },
 
@@ -42,7 +42,7 @@
 
          "name": "TH-FREE-04",
 
-         "url": "https://github.com/HAREM-NET/ThaiRung/raw/refs/heads/main/3.online_app.json"
+         "url": "http://45.154.26.228:82/server/online_app.json"
 
       },
 
@@ -50,7 +50,7 @@
 
          "name": "TH-FREE-05",
 
-         "url": "https://github.com/HAREM-NET/ThaiRung/raw/refs/heads/main/4.online_app.json"
+         "url": "http://103.99.11.80:82/server/online_app.json"
 
       },
 
