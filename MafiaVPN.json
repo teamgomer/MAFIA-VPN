@@ -1,7 +1,7 @@
 {
   
-"version": 45,
-"message": "เวอร์ชันไฟล์: 45 \n⚡️มีอะไรใหม่ \n⚡️VIPราคา30บาทไม่ต้องเพิ่มโฆษณา",
+"version": 46,
+"message": "เวอร์ชันไฟล์: 46 \n⚡️มีอะไรใหม่ \n⚡️VIPราคา30บาทไม่ต้องเพิ่มโฆษณา",
 "fileUrl": "https://github.com/teamgomer/MAFIA-VPN/raw/refs/heads/main/mafia.json",
 
 "RewardAmount": 18,
@@ -35,38 +35,6 @@
          "name": "TH-FREE-03",
 
          "url": "http://103.107.54.190:82/server/online_app.json"
-
-      },
-
-  {
-
-         "name": "TH-FREE-04",
-
-         "url": "http://45.154.26.228:82/server/online_app.json"
-
-      },
-
-  {
-
-         "name": "TH-FREE-05",
-
-         "url": "http://103.99.11.80:82/server/online_app.json"
-
-      },
-
-  {
-
-         "name": "TH-FREE-06",
-
-         "url": "https://github.com/HAREM-NET/ThaiRung/raw/refs/heads/main/6.online_app.json"
-
-  },
-
-  {
-
-         "name": "TH-FREE-07",
-
-         "url": "https://github.com/HAREM-NET/ThaiRung/raw/refs/heads/main/7.online_app.json"
 
       }
 
