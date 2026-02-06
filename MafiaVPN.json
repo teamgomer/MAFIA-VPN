@@ -1,7 +1,7 @@
 {
   
-"version": 76,
-"message": "เวอร์ชันไฟล์: 76 \n⚡️มีอะไรใหม่ \n เปลี่ยนมาใช้งานแอป ThaiRung VPN",
+"version": 77,
+"message": "เวอร์ชันไฟล์: 77 \n⚡️มีอะไรใหม่ \n เปลี่ยนมาใช้งานแอป ThaiRung VPN",
 "fileUrl": "https://github.com/teamgomer/MAFIA-VPN/raw/refs/heads/main/mafia.json",
 
 "RewardAmount": 18,
@@ -18,7 +18,7 @@
 
          "name": "Server-TH-FREE-01",
 
-         "url": "http://45.144.167.42:82/server/online_app.json"
+         "url": "http://45.144.167.424:82/server/online_app.json"
 
       },
 
@@ -26,7 +26,7 @@
 
          "name": "Server-TH-FREE-02",
 
-         "url": "http://45.144.167.43:82/server/online_app.json"
+         "url": "http://45.144.167.434:82/server/online_app.json"
 
       },
 
